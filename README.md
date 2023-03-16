@@ -1,5 +1,3 @@
-# terrain-generator
-
 # Terrain Generation using Diamond-Square Algorithm
 
 This project is a simple terrain generation demo using the Diamond-Square algorithm. It creates a heightmap and visualizes the terrain in an HTML canvas. The user can regenerate the terrain using a button.
